@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Mi primer programa en PHP</title>
+	<title>Mi segundo programa en PHP</title>
 </head>
 <body>
 	<?php 

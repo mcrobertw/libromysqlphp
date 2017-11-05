@@ -6,6 +6,8 @@
 	<link rel="stylesheet" href="estilos.css">
 </head>
 <body>
+	<a href="ejercicio4.php">Ejercicio 4: <b>Uso de variables y constantes</b></a><br>
+	<a href="ejercicio3.php">Ejercicio 3: <b>Definición y uso de constantes en PHP</b></a><br>
 	<a href="ejercicio2.php">Ejercicio 2: <b>Uso de HTML dentro de etiquetas PHP</b></a><br>
 	<a href="ejercicio1.php">Ejercicio 1: <b>Uso de PHP en una página web</b></a>
 </body>

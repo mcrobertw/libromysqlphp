@@ -1,3 +1,4 @@
+<!--Uso de PHP en una página web-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
