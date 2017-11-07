@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Página que es invocada</title>
+	<title>Página que es invocada  - Mi música favorita <?PHP echo $_REQUEST['musicafavorita']; ?></title>
 </head>
 <body>
 	<?php 
