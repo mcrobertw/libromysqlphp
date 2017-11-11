@@ -14,6 +14,7 @@
 <body>
 	<?php 
 		$librofavorito=urlencode("Las cruces sobre el agua");
+		echo "Bienvenido al sitio: ".$_COOKIE['nombreusuario'];
 		echo "<a href='http://localhost:8090/pagina_invocada3.php?librofavorito=$librofavorito'>";
 		echo "Click aquí para ver cual es mi libro favorito";
 		echo "</a>";
