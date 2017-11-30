@@ -6,6 +6,9 @@
 	<link rel="stylesheet" href="estilos.css">
 </head>
 <body>
+	<a href="pagina_login5.php">Ejercicio 11: <b>Página de login en la que se ubica un archivo con include</b></a><br>
+	<a href="ejercicio6.php">Ejercicio 10: <b>Ejemplo de uso del if else</b></a><br>
+	<a href="ejercicio5.php">Ejercicio 9: <b>Ejemplo de uso del if</b></a><br>
 	<a href="pagina_login4.php">Ejercicio 8: <b>Autenticación de usuarios</b></a><br>
 	<a href="pagina_invocadora3.php">Ejercicio 7: <b>Pasando variables por COOKIE</b></a><br>
 	<a href="pagina_invocadora2.php">Ejercicio 6: <b>Pasando variables por SESIÓN</b></a><br>
